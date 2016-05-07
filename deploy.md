@@ -221,7 +221,7 @@ helpful now. Every release is a risk.
 budget". If a deployment went bad and there's down time - it takes out of your
 error budget and you release less.
 
-**Youngstar:** Sound reasonable. It seems there's so much infrastructure to build and process to develop.
+**Youngstar:** Sounds reasonable. It seems there's so much infrastructure to build and process to develop.
 
 **Graybeard:** Yeah. And backups which work, and security and ...
 
